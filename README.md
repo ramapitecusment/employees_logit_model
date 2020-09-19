@@ -36,7 +36,7 @@ If you have no idea what is the proper choice, set t=0.5
 
 The boxplot illustrates us that those employees who works more than 200 hours per month are inclined to leave the job.
 
-
+![alt text](https://github.com/ramapitecusment/employees_logit_model/tree/master/images/Rplot.jpeg)
 
 Next boxplot depicts us that those who spend in the company more than 4 years often leave the job.
 

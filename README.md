@@ -36,22 +36,23 @@ If you have no idea what is the proper choice, set t=0.5
 
 The boxplot illustrates us that those employees who works more than 200 hours per month are inclined to leave the job.
 
-![alt text](https://raw.githubusercontent.com/ramapitecusment/employees_logit_model/master/images/Rplot.jpeg)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/employees_logit_model/master/images/Rplot02.jpeg)
 
 Next boxplot depicts us that those who spend in the company more than 4 years often leave the job.
 
-
+![alt text](https://raw.githubusercontent.com/ramapitecusment/employees_logit_model/master/images/Rplot01.jpeg)
 
 This diagram demonstrates us that more project you have, higher chance of leaving the work.
 
-
+![alt text](https://raw.githubusercontent.com/ramapitecusment/employees_logit_model/master/images/Rplot03.jpeg)
 
 The plot presents us that those who has satisfaction level lower than 0.5 often leave the job.
 
-
+![alt text](https://raw.githubusercontent.com/ramapitecusment/employees_logit_model/master/images/Rplot04.jpeg)
 
 As you can see the best threshold is 0.4, because there we have the least amount of errors
 
+![alt text](https://raw.githubusercontent.com/ramapitecusment/employees_logit_model/master/images/Rplot.jpeg)
 
 ### Conclusion:
 - The key indicators to watch out for are:
